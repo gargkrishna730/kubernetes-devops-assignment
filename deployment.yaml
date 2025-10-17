@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: gargkrishna730/currency-converter:google
+        image: gargkrishna730/currency-converter:latest
         ports:
         - containerPort: 5000
